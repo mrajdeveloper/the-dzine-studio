@@ -74,9 +74,6 @@ WordPress • HTML • CSS • JavaScript • PHP • MySQL • Git • GitHub
 
 ![Services](assets/services.png)
 
-### Portfolio
-
-![Portfolio](assets/portfolio.png)
 
 ### Mobile Experience
 
